@@ -12,3 +12,6 @@
 - 운동 추천
 - 레이아웃 커스터마이징
 - 레이아웃 이미지 추출
+
+# 화면
+<img src="https://user-images.githubusercontent.com/48594896/135780447-57382359-d97b-4f3a-b065-88aea7578d28.png" />
